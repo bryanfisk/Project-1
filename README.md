@@ -1,5 +1,4 @@
-Project 1 for CMP SCI 2250
-1/9/18
+Project 2 for CMP SCI 2250 at University of Missouri Saint Louis 1/9/18 by Bryan Fisk
 
 Project Stipulations:
 
@@ -45,7 +44,7 @@ int * createEvenArray(const int [], int, int &);
 
  
 
-Part 3) Finally, write a function that takes in two integer arrays and their sizes. This function should then create and allocate an array inside the function of the same size as the largest of these two arrays. The function should then go through both arrays starting at the lowest index. At each index, compare their values and put the highest of these values in the 3rd array that we created. If one array isn’t large enough, the other array will always win at those indices. Output this array. Sort this 3rd array using selection sort and then output the results to the screen again. This array does not need to be returned to the main body.
+Part 3) Finally, write a function that takes in two integer arrays and their sizes. This function should then create and allocate an array inside the function of the same size as the largest of these two arrays. The function should then go through both arrays starting at the lowest index. At each index, compare their values and put the highest of these values in the 3rd array that we created. If one array isnâ€™t large enough, the other array will always win at those indices. Output this array. Sort this 3rd array using selection sort and then output the results to the screen again. This array does not need to be returned to the main body.
 
  
 
